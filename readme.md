@@ -32,6 +32,10 @@ Navigation via la sidebar (Intro → Overview → Deep dives → Conclusion).
 
 Données publiques issues des portails Atmo France / LCSQA / INERIS. Elles décrivent les niveaux de polluants (NO₂, O₃, PM10, PM2.5…) sur différentes zones de surveillance en France. Ici, l’usage est descriptif et narratif, sans modélisation prédictive.
 
-### Idée du projet
+### Projet
 
 Ce tableau de bord Streamlit transforme des données publiques sur la qualité de l’air en une narration visuelle : on nettoie les données, on calcule des indicateurs, puis on guide l’utilisateur à travers plusieurs pages (intro → overview → deep dives → conclusion) pour raconter comment la qualité de l’air évolue en France et où se situent les écarts.
+
+### Par qui 
+
+Réalisé par Gabriel Tannous en 2025
