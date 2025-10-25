@@ -28,6 +28,7 @@ streamlit run app.py
 
 Navigation via la sidebar (Intro → Overview → Deep dives → Conclusion).
 
+Lien direct du Streamlit déployé : https://gabibel-projetstreamlit-app-ivaxtr.streamlit.app/
 ### Données
 
 Données publiques issues des portails Atmo France / LCSQA / INERIS. Elles décrivent les niveaux de polluants (NO₂, O₃, PM10, PM2.5…) sur différentes zones de surveillance en France. Ici, l’usage est descriptif et narratif, sans modélisation prédictive.
