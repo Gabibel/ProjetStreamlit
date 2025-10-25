@@ -36,6 +36,8 @@ Données publiques issues des portails Atmo France / LCSQA / INERIS. Elles décr
 
 Ce tableau de bord Streamlit transforme des données publiques sur la qualité de l’air en une narration visuelle : on nettoie les données, on calcule des indicateurs, puis on guide l’utilisateur à travers plusieurs pages (intro → overview → deep dives → conclusion) pour raconter comment la qualité de l’air évolue en France et où se situent les écarts.
 
+Lien Répo Github : https://github.com/Gabibel/ProjetStreamlit
+
 ### Par qui 
 
 Réalisé par Gabriel Tannous en 2025
