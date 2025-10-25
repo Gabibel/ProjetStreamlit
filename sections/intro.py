@@ -2,7 +2,7 @@ import streamlit as st
 from utils.viz import map_interactive_zas
 
 def run(df):
-    st.header("Introduction, Peux t-on vraiment respirer l'air en France ?")
+    st.header("Introduction, Peut-on vraiment respirer l'air en France ?")
 
     st.write("""
      Chaque année en France, près de **40 000 décès** sont attribués à la pollution de l’air,
